@@ -1,0 +1,7 @@
+D:\工作记录\SoftKeyBoard\SoftKeyBoard\obj\x86\Debug\SoftKeyBoard.Form1.resources
+D:\工作记录\SoftKeyBoard\SoftKeyBoard\obj\x86\Debug\SoftKeyBoard.Properties.Resources.resources
+D:\工作记录\SoftKeyBoard\SoftKeyBoard\obj\x86\Debug\SoftKeyBoard.csproj.GenerateResource.Cache
+D:\工作记录\SoftKeyBoard\SoftKeyBoard\bin\Debug\SoftKeyBoard.exe
+D:\工作记录\SoftKeyBoard\SoftKeyBoard\bin\Debug\SoftKeyBoard.pdb
+D:\工作记录\SoftKeyBoard\SoftKeyBoard\obj\x86\Debug\SoftKeyBoard.exe
+D:\工作记录\SoftKeyBoard\SoftKeyBoard\obj\x86\Debug\SoftKeyBoard.pdb

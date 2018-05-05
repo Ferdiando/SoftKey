@@ -1,0 +1,12 @@
+D:\C#_officeWork\InputMethodEdit\InputMethodEdit\bin\Release\InputMethodEdit.exe.config
+D:\C#_officeWork\InputMethodEdit\InputMethodEdit\obj\x86\Release\Interop.INKEDLib.dll
+D:\C#_officeWork\InputMethodEdit\InputMethodEdit\obj\x86\Release\Interop.MSINKDIVLib.dll
+D:\C#_officeWork\InputMethodEdit\InputMethodEdit\obj\x86\Release\InputMethodEdit.csproj.ResolveComReference.cache
+D:\C#_officeWork\InputMethodEdit\InputMethodEdit\obj\x86\Release\InputMethodEdit.InputMethodEdit.resources
+D:\C#_officeWork\InputMethodEdit\InputMethodEdit\obj\x86\Release\InputMethodEdit.Properties.Resources.resources
+D:\C#_officeWork\InputMethodEdit\InputMethodEdit\obj\x86\Release\InputMethodEdit.csproj.GenerateResource.Cache
+D:\C#_officeWork\InputMethodEdit\InputMethodEdit\bin\Release\InputMethodEdit.exe
+D:\C#_officeWork\InputMethodEdit\InputMethodEdit\bin\Release\InputMethodEdit.pdb
+D:\C#_officeWork\InputMethodEdit\InputMethodEdit\bin\Release\log4net.dll
+D:\C#_officeWork\InputMethodEdit\InputMethodEdit\obj\x86\Release\InputMethodEdit.exe
+D:\C#_officeWork\InputMethodEdit\InputMethodEdit\obj\x86\Release\InputMethodEdit.pdb
