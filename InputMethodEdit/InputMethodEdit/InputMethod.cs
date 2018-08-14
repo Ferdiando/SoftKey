@@ -86,7 +86,7 @@ namespace InputMethodEdit
             myRecoContext.Strokes = myInkCollector.Ink.Strokes;
             this.myInkCollector.Stroke += new InkCollectorStrokeEventHandler(ic_Stroke);
 
-            //读取配置文件
+            //读取配置文件（Ferdiando,github创建分支的测试内容）
             log.Info("窗口Load...");
             //窗口加载读取拼音和
             Read_pymb_Txt("D:\\BOBRVT\\Version3.3\\Terminal\\InkRecognition\\pymb.txt");
